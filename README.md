@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/joanncholland/" target="_blank">
+    <a href="https://www.linkedin.com/in/joanncholland/" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&color-white" alt="LinkedIn Badge" />
     </a>
-    <a href="https://codepen.io/joannholland" target="_blank">
+    <a href="https://codepen.io/joannholland" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&color-white" alt="CodePen Badge" />
     </a>
   </div>
