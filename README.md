@@ -25,7 +25,7 @@
                                                                                
 I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> based in the UK.
                                                                                                       
-- :telescope: I’m looking for work as a React frontend developer, but am open to other roles in web development.
+- :telescope: I’m looking for work as a React front end developer, but am open to other roles in web development.
 
 - :computer: Building personal projects and learning about AI.
 
