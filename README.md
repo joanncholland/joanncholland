@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
                                                                                
-I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> based in the UK.
+I am a web developer <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100"> based in the UK.
                                                                                                       
 - :telescope: Seeking work as a React front end developer, but open to other roles in web development.
 
@@ -57,3 +57,10 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [comment]: <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanncholland&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanncholland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div align="center">
+  <h1> thanks for stopping by!</h1>
+   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="waving GIF" width="250" />
+</div>
