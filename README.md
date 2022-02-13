@@ -31,7 +31,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :video_game: In my free time, I experiment on [![CodePen Badge](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&color-white)](https://codepen.io/joannholland) and play Skyrim.
 
-- :envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-joanncholland-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joanncholland/) or [email me](mailto:joann.c.holland@btinternet.com).
+- :envelope: How to get in touch: [![Linkedin Badge](https://img.shields.io/badge/-joanncholland-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joanncholland/) or [email me](mailto:joann.c.holland@btinternet.com).
                                                                                                       
 ---
 
