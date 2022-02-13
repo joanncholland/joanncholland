@@ -27,7 +27,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
                                                                                                       
 - :telescope: Seeking work as a React front end developer, but open to other roles in web development.
 
-- :computer: Building personal projects and learning about AI.
+- :computer: Currently building personal projects and learning about AI.
 
 - :video_game: In my free time, I experiment on [![CodePen Badge](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&color-white)](https://codepen.io/joannholland) and play Skyrim.
 
