@@ -23,13 +23,11 @@
 
 ### :woman_technologist: About Me :
                                                                                
-I am a web developer <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100"> based in the UK.
+I am a developer <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100"> based in the UK.
                                                                                                       
-- :telescope: Seeking work as a React front end developer, but open to other roles in web development.
+- :computer: Currently working as a technical consultant using full stack Java, JS/HTML/CSS and SQL.
 
-- :computer: Currently building personal projects and learning about AI.
-
-- :video_game: In my free time, I experiment on [![CodePen Badge](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&color-white)](https://codepen.io/joannholland) and play Skyrim.
+- :video_game: In my free time, I experiment on [![CodePen Badge](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&color-white)](https://codepen.io/joannholland), work on personal projects and play video games (Skyrim's my fave).
 
 - :envelope: How to get in touch: [![Linkedin Badge](https://img.shields.io/badge/-joanncholland-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joanncholland/) or [email me](mailto:joann.c.holland@btinternet.com).
                                                                                                       
