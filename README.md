@@ -15,19 +15,15 @@
  <h1>hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="300"/>
-</div>
-
   ---
 
 ### :woman_technologist: About Me :
                                                                                
-I am a developer <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100"> based in the UK.
+I am a developer based in the UK.
                                                                                                       
 - :computer: Currently working as a technical consultant using full stack Java, JS/HTML/CSS and SQL.
 
-- :video_game: In my free time, I experiment on [![CodePen Badge](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&color-white)](https://codepen.io/joannholland), work on personal projects and play video games (Skyrim's my fave).
+- :video_game: In my free time, I experiment on [![CodePen Badge](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&color-white)](https://codepen.io/joannholland) and work on personal projects using languages such as React and Python.
 
 - :envelope: How to get in touch: [![Linkedin Badge](https://img.shields.io/badge/-joanncholland-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joanncholland/) or [email me](mailto:joann.c.holland@btinternet.com).
                                                                                                       
